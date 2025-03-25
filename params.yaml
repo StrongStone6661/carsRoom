@@ -1,1 +1,3 @@
-template-file-path:showroom.yaml
+template-file-path: showroom.yaml
+parameters: {}
+tags: {}
